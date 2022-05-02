@@ -1,3 +1,4 @@
+# just a test comment to see if the github thing works
 class Solution:
     def maxSubArray(self, nums: list[int]) -> int:
         current = 0
